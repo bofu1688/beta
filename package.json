@@ -2,7 +2,7 @@
   "name": "webgl",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://bofu1688.github.io/webgl/beta",
+  "homepage":"https://bofu1688.github.io/beta",
   "type": "module",
   
   "scripts": {
